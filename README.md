@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://flock.io">
-    <img src="https://assets.super.so/fa93bcd3-68d8-4675-be45-9c7f290dac2c/images/24b0c885-ff37-4df2-8c66-ac1927fe061f/logo-full.svg" alt="Awesome" width="250">
+    <img src="https://assets.super.so/fa93bcd3-68d8-4675-be45-9c7f290dac2c/images/1c75d34d-c3c3-486f-9541-7e2cc487ccc2/logo-full.svg" alt="Awesome" width="250">
   </a>
 </p>
 
