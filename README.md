@@ -26,6 +26,7 @@ MCP is an open protocol that standardizes how apps connect with AI models. As mo
 ### Production-Ready
 
 - [Base-MCP](https://github.com/base/base-mcp) - A Model Context Protocol (MCP) server that provides onchain tools for AI applications like Claude Desktop and Cursor, allowing them to interact with the Base Network and Coinbase API.
+- [The Stall](https://the-stall.intuitek.ai) - 201 pay-per-call AI capabilities via x402 MCP on Base. DeFi analytics, on-chain wallet scoring, crypto market data, equity intelligence, and macro indicators. No account required — USDC micropayments per call.
 
 ### Experimental
 
