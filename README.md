@@ -27,6 +27,8 @@ MCP is an open protocol that standardizes how apps connect with AI models. As mo
 
 - [Base-MCP](https://github.com/base/base-mcp) - A Model Context Protocol (MCP) server that provides onchain tools for AI applications like Claude Desktop and Cursor, allowing them to interact with the Base Network and Coinbase API.
 
+- [Fillfolio MCP](https://github.com/fillfolio/portfolio-mcp) - Hosted, read-only access to stored crypto holdings across supported exchange and blockchain-wallet connections, alongside stocks, cash and liabilities. Requires a paid Fillfolio account and an accepted OAuth client. The public repository contains contracts, setup docs and helpers; the hosted implementation is private.
+
 ### Experimental
 
 ## Documentation
