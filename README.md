@@ -29,6 +29,8 @@ MCP is an open protocol that standardizes how apps connect with AI models. As mo
 
 ### Experimental
 
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
+
 ## Documentation
 
 - [MCP Specification](https://modelcontextprotocol.io/introduction) - Detailed documentation of the MCP.
